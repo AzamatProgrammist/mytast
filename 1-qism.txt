@@ -1,1 +1,2 @@
 1-o'zgarishlar
+git pull buyrug'ini o'rganish yani boshqa dasturchilar kiritgan o'garishlarni mahalliy omborga ko'chirish buyrug'
